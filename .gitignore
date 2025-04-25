@@ -1,0 +1,34 @@
+# API keys and secrets
+.env
+
+# Dependency directory
+node_modules
+bower_components
+
+/config/
+
+# Editors
+.idea
+*.iml
+
+*.tgz
+
+build
+
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.swp
+
+pids
+logs
+results
+tmp
+.DS_Store
+
+portfolioState.json
