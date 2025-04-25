@@ -4,6 +4,8 @@
 
 A CLI-based, wallet tracker for monitoring real-time Solana wallet activity. Supports Raydium, PumpFun, and Jupiter DEXes.
 
+![Preview](assets/bot_preview.png)
+
 ---
 
 ## 🛠️ Features
