@@ -92,7 +92,7 @@ The CLI will start, connect to the specified WebSocket endpoint, and begin loggi
 ├── constants                     # Constants and configurations used globally
 │   └── constants.ts
 ├── services                      # Core application services
-│   ├── IDL                       # Dex IDL files for interacting with smart contracts ???
+│   ├── IDL                       # Dex IDL files
 │   ├── walletTracker
 │       └── src
 │           ├── app.ts            # CLI entrypoint for the bot
